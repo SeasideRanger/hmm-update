@@ -36,5 +36,4 @@ add raw/stage/w09a10/w09a10_obj.pac
 add raw/text/text_common_en.pac
 add raw/text/text_Multi_Platform_en.pac
 add raw/ui/rpl_texture_whitemap.pac
-add changelog.md
 add mod.ini

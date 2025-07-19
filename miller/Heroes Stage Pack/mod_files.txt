@@ -1,3 +1,4 @@
+add mod.ini
 add raw/gedit/w01a11_gedit.pac
 add raw/gedit/w01a20_gedit.pac
 add raw/gedit/w01c11_gedit.pac

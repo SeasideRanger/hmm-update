@@ -1,3 +1,9 @@
+## Heroes Stage Pack v0.2.1
+- Power Plant:
+    - RangeSpawning adjustment
+    - Stage object adjustment
+    - Set data adjustment
+
 ## Heroes Stage Pack v0.2.0
 - ItemBox rebalanced
 - Grand Metropolis release

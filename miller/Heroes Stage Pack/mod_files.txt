@@ -27,9 +27,9 @@ add raw/misc/gameparam.pac
 add raw/ObjectCommon.pac
 add raw/script/script_resident.pac
 add raw/sound/resident_sound/bgm_miller.acb
-add raw/sound/resident_sound/bgm_miller.awb
 add raw/sound/resident_sound/bgm_miller_collection.acb
-add raw/sound/resident_sound/bgm_miller_collection.awb
+add raw/sound/w03_sound/se_miller_zone03_kingdomvalley.acb
+add raw/sound/w04_sound/se_miller_zone04_city.acb
 add raw/stage/develop/w01z10/w01z10_misc.pac
 add raw/stage/develop/w01z10/w01z10_obj.pac
 add raw/stage/develop/w01z10/w01z10_trr_cmn.pac

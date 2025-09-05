@@ -1,3 +1,6 @@
+## Heroes Stage Pack v0.4.1
+- Missing audio fix
+
 ## Heroes Stage Pack v0.4.0
 - FROG FOREST pack release
 

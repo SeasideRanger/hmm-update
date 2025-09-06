@@ -1,3 +1,9 @@
+## Heroes Stage Pack v0.4.2
+- Added menu music
+- Rail Canyon:
+    - Fixed stage starting position
+    - Fixed Gismo material issue
+
 ## Heroes Stage Pack v0.4.1
 - Missing audio fix
 

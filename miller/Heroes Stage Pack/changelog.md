@@ -1,3 +1,7 @@
+## Heroes Stage Pack v0.4.3
+- Fixed stage text
+- Fixed White Space object texture
+
 ## Heroes Stage Pack v0.4.2
 - Added menu music
 - Rail Canyon:

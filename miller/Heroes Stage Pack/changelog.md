@@ -1,3 +1,6 @@
+## Heroes Stage Pack v0.4.4
+- General stage fixes
+
 ## Heroes Stage Pack v0.4.3
 - Fixed stage text
 - Fixed White Space object texture

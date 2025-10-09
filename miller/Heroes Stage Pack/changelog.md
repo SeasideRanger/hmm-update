@@ -1,3 +1,26 @@
+## Heroes Stage Pack v0.6.1
+- GENERAL:
+    - Improved GoalRing collision
+    - Improved GoalTrigger for challenges
+- SEASIDE HILL pack:
+    - Replaced NormalFloor objects with Gismo assets
+    - Ported cameras for Seaside Hill and Ocean Palace
+    - Object and collision tweaks for Seaside Hill, Ocean Palace, Turtle Shell, Road Rock
+- GRAND METROPOLIS pack:
+    - Ported cameras for Grand Metropolis, Power Plant, Seaside Hill (Sunset)
+    - Adjusted S03Door opening parameters
+    - Added simple animations to Gismo objects in Power Plant
+    - Updated collision for S04EnergyUp
+    - Updated Grand Metropolis Challenge title
+- RAIL CANYON pack:
+    - Object, camera and collision tweaks for Rail Canyon, Bullet Station, Casino Park, BINGO Highway, Casino Ring
+- FROG FOREST pack:
+    - Object tweaks for Frog Forest, Lost Jungle
+
+## Heroes Stage Pack v0.6.0
+- HANG CASTLE release
+- EGG FLEET release
+
 ## Heroes Stage Pack v0.4.4
 - General stage fixes
 
@@ -40,4 +63,4 @@
 - Updated challenge descriptions
 
 ## Heroes Stage Pack v0.1.0
-- SEASIDE HILL pack preview
+- SEASIDE HILL pack release

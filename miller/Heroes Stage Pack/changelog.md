@@ -1,3 +1,7 @@
+## Heroes Stage Pack v0.6.2
+- Objects and camera tweaks for various Stages and Challenges
+- Minor text fixes
+
 ## Heroes Stage Pack v0.6.1
 - GENERAL:
     - Improved GoalRing collision

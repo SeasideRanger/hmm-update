@@ -1,3 +1,17 @@
+## Heroes Stage Pack v1.0.0
+- GameBanana release
+
+## Heroes Stage Pack v0.6.3
+- Hang Castle: camera and object tweaks
+- Mystic Mansion: camera, object and collision tweaks
+- Final Fortress: object tweaks
+- Collision tweaks for Power Plant
+- Restored "Race: Egg Emperor" edge collision
+- Adjusted breakable Gismo lifetime
+- Lowered Casino Course lap count to 1
+- Seaside Hill: minor object tweaks
+- Improved stage gate title materials
+
 ## Heroes Stage Pack v0.6.2
 - Objects and camera tweaks for various Stages and Challenges
 - Minor text fixes

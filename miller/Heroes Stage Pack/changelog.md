@@ -1,3 +1,13 @@
+## Heroes Stage Pack v1.0.1
+- Grand Metropolis: object, camera, material tweaks
+- Power Plant: object, collision tweaks
+- Bingo Highway: camera, object tweaks
+- Frog Forest: material tweaks
+- Lost Jungle: camera, object tweaks
+- Hang Castle: collision tweaks
+- Mystic Mansion: camera, collision tweaks
+- Final Fortress: object tweaks
+
 ## Heroes Stage Pack v1.0.0
 - GameBanana release
 

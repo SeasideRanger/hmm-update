@@ -1,3 +1,10 @@
+## Heroes Stage Pack v1.0.2
+- Fixed collision walls for Hang Castle
+- Modified entrance collision for Mystic Mansion
+- Minor object and camera tweaks
+- Added checkpoints for long challenge acts
+- Changed "Race: Boss" challenge to "Chase: Boss", reduced completion time
+
 ## Heroes Stage Pack v1.0.1
 - Grand Metropolis: object, camera, material tweaks
 - Power Plant: object, collision tweaks

@@ -1,0 +1,35 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Gameplay Settings",
+            "Elements": 
+            [
+                {
+                    "Name": "IncludeDir1",
+                    "DisplayName": "Physics Select",
+                    "Description": [ "Choose you preferred physics option" ],
+                    "Type": "PhysicsEnum",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": null
+                }
+            ]
+        }
+    ],
+    "Enums": {
+      "PhysicsEnum": [
+         {
+            "DisplayName":"Vanilla Physics",
+            "Value": null,
+            "Description":[ "Compatible with physics mods" ]
+         },
+		 {
+            "DisplayName":"Custom Physics",
+            "Value":"custom_physics",
+            "Description":[ "Improved character turning from White Space physics"]
+         }
+      ]
+    },
+    "IniFile": "mod.ini"
+}

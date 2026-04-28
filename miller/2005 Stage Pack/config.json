@@ -22,12 +22,12 @@
          {
             "DisplayName":"Vanilla Physics",
             "Value": null,
-            "Description":[ "Compatible with physics mods" ]
+            "Description": null
          },
 		 {
             "DisplayName":"Custom Physics",
             "Value":"custom_physics",
-            "Description":[ "Improved character turning from White Space physics"]
+            "Description":[ "Steering from White Space"]
          }
       ]
     },

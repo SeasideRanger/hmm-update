@@ -1,35 +1,33 @@
 {
-    "Groups": [
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Gameplay Settings",
+      "Elements":
+      [
         {
-            "Name": "Main",
-            "DisplayName": "Gameplay Settings",
-            "Elements": 
-            [
-                {
-                    "Name": "IncludeDir1",
-                    "DisplayName": "Physics Select",
-                    "Description": [ "Choose you preferred physics option" ],
-                    "Type": "PhysicsEnum",
-                    "MinValue": null,
-                    "MaxValue": null,
-                    "DefaultValue": null
-                }
-            ]
+          "Name": "IncludeDir1",
+          "DisplayName": "Physics Select",
+          "Description": [ "Choose you preferred physics option" ],
+          "Type": "PhysicsEnum",
+          "DefaultValue": null
         }
-    ],
-    "Enums": {
-      "PhysicsEnum": [
-         {
-            "DisplayName":"Vanilla Physics",
-            "Value": null,
-            "Description": null
-         },
-		 {
-            "DisplayName":"Custom Physics",
-            "Value":"custom_physics",
-            "Description":[ "Steering from White Space"]
-         }
       ]
-    },
-    "IniFile": "mod.ini"
+    }
+  ],
+  "Enums": {
+    "PhysicsEnum": [
+      {
+        "DisplayName": "Vanilla Physics",
+        "Value": null,
+        "Description": null
+      },
+      {
+        "DisplayName": "Custom Physics",
+        "Value": "custom_physics",
+        "Description": [ "Steering from White Space" ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
 }

@@ -1,4 +1,7 @@
 # Shadow Generations: 2005 Stage Pack
+## v0.3.0
+### Added
+- Pack 3: Prison Island
 
 ## v0.2.0
 ### Added

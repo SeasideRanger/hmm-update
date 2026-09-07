@@ -143,6 +143,7 @@ add raw/stage/develop/w14z10/w14z10_trr_cmn.pac
 add raw/stage/develop/w14z10/w14z10_trr_s00.pac
 add raw/stage/Shadow05Object.pac
 add raw/stage/Shadow05StageGate.pac
+add raw/stage/w06_common.pac
 add raw/text/text_common_en.pac
 add raw/text/text_Multi_Platform_en.pac
 add raw/ui/rpl_texture_whitemap.pac

@@ -19,6 +19,7 @@ add raw/gedit/w03z12_gedit.pac
 add raw/gedit/w03z20_gedit.pac
 add raw/gedit/w03z21_gedit.pac
 add raw/gedit/w03z22_gedit.pac
+add raw/gedit/w04a20_gedit.pac
 add raw/gedit/w04z10_gedit.pac
 add raw/gedit/w04z11_gedit.pac
 add raw/gedit/w04z12_gedit.pac
@@ -33,6 +34,7 @@ add raw/gedit/w05z21_gedit.pac
 add raw/gedit/w05z22_gedit.pac
 add raw/gedit/w06z10_gedit.pac
 add raw/gedit/w06z20_gedit.pac
+add raw/gedit/w14b10_gedit.pac
 add raw/gedit/w14z10_gedit.pac
 add raw/misc/gameparam.pac
 add raw/script/script_resident.pac

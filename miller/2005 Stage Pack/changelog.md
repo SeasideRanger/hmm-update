@@ -7,6 +7,7 @@
 - Minor Set Data adjustment
 - Removed pole model from terrain
 - Cental City (Macho) Challenge condition change
+- PT-Anim adjutstment
 
 ## v0.6.0 - Pack Update
 ### Added
